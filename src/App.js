@@ -11,13 +11,16 @@ function App() {
         <p> My name is Remington and this is my project </p>
 =======
         <img src={logo} className="App-logo" alt="logo" />
+<<<<<<< HEAD
         <p>
           Hello World! This is our team project.
         </p>	
 >>>>>>> 242861e (added new project text)
+=======
+        <p>Hello World! This is our team project.</p>
+>>>>>>> 8c66888 (Fixed file conflicts between NewText and main)
       </header>
     </div>
   );
 }
-
 export default App;
